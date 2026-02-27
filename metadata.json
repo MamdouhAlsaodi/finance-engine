@@ -1,0 +1,5 @@
+{
+  "name": "Finance Engine",
+  "description": "A strict financial control system with separation of personal and company finances.",
+  "requestFramePermissions": []
+}
